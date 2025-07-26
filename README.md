@@ -1,12 +1,12 @@
-# 🏠 Home-Vista
+# 🏠 DreamHomes
 
-Home-Vista is a responsive and modern real estate frontend website built with **React.js**, **Tailwind CSS**, and **Framer Motion**. This project showcases real estate properties with clean UI components and allows clients to contact the owner via an integrated form.
+DreamHomes is a responsive and modern real estate frontend website built with **React.js**, **Tailwind CSS**, and **Framer Motion**. This project showcases real estate properties with clean UI components and allows clients to contact the owner via an integrated form.
 
 ---
 
 ## 🚀 Live Link
 
-👉 [Home-Vista Live](https://home-vista-ten.vercel.app/)
+👉 [DreamHomes Live](https://DreamHomes-ten.vercel.app/)
 
 ---
 
